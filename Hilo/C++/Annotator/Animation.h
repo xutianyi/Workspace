@@ -7,6 +7,8 @@
 // FITNESS FOR A PARTICULAR PURPOSE.                                                 
 //===================================================================================
 
+//JX's Modification
+
 #pragma once
 
 #include "stdafx.h"
